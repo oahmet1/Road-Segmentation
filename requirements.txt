@@ -1,0 +1,14 @@
+segmentation_models_pytorch
+numpy 
+scikit-learn 
+matplotlib 
+pandas
+torchmetrics
+wandb
+torchsummary
+albumentations
+absl-py
+imageio
+kaggle
+beartype
+einops
