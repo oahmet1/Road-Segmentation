@@ -20,7 +20,7 @@ You need to add the following kaggle secrets:
 
 ## Running on Euler w. Kaggle Datasets
 1. Clone the git repo to /cluster/home/{user}/cil 
-[ git clone https://TOKEN@github.com/valebi/RoadSeg.git ]
+[ git clone https://TOKEN@github.com/oahmet1/Road-Segmentation.git ]
 2. Get a kaggle.json authentication file from https://www.kaggle.com/settings > API > generate token and upload it to RoadSeg
 3. Run
     ``` 
